@@ -87,12 +87,6 @@ Trabalhar perto do negócio me ensinou a começar pelo problema: entender quem u
   </tr>
 </table>
 
-<h2 align="center">Atividade</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthursantx&bg_color=0d1117&color=7dd3fc&line=1e5bd8&point=38bdf8&area=true&area_color=1e5bd8&hide_border=true&custom_title=Atividade%20no%20GitHub" alt="Gráfico de atividade no GitHub" width="100%"/>
-</div>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e5bd8,100:0a1f44&height=110&section=footer" width="100%" alt=""/>
