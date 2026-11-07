@@ -57,6 +57,7 @@ Trabalhar perto do negócio me ensinou a começar pelo problema: entender quem u
       <img src="https://img.shields.io/badge/Spring_Boot-3-1e5bd8?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 3"/>
       <p>Audita emissões aéreas e aponta inconsistências de receita antes do fechamento: bilhete duplicado, tarifa zerada e markup fora da política. Regras com o padrão <b>Strategy</b>.</p>
       <a href="https://github.com/arthursantx/auditoria-receita-api"><img src="https://img.shields.io/badge/Ver_projeto-38bdf8?style=for-the-badge&logo=github&logoColor=0a1f44" alt="Ver projeto"/></a>
+      <a href="https://arthursantx.github.io/auditoria-receita-api/"><img src="https://img.shields.io/badge/Demo_online-1e5bd8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Demo online"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>Acordos Tarifários API</h3>
@@ -65,6 +66,7 @@ Trabalhar perto do negócio me ensinou a começar pelo problema: entender quem u
       <img src="https://img.shields.io/badge/Mockito-testes-1e5bd8?style=flat-square" alt="Mockito"/>
       <p>Centraliza acordos com companhias aéreas, impede duplicidade pela chave cliente + cia + tipo de viagem e alerta acordos perto do vencimento.</p>
       <a href="https://github.com/arthursantx/acordos-tarifarios-api"><img src="https://img.shields.io/badge/Ver_projeto-38bdf8?style=for-the-badge&logo=github&logoColor=0a1f44" alt="Ver projeto"/></a>
+      <a href="https://arthursantx.github.io/acordos-tarifarios-api/"><img src="https://img.shields.io/badge/Demo_online-1e5bd8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Demo online"/></a>
     </td>
   </tr>
   <tr>
@@ -75,6 +77,7 @@ Trabalhar perto do negócio me ensinou a começar pelo problema: entender quem u
       <img src="https://img.shields.io/badge/State-pattern-1e5bd8?style=flat-square" alt="State pattern"/>
       <p>Fluxo de solicitação e aprovação de viagens corporativas com política de gastos, transições de status com o padrão <b>State</b> e resumo por centro de custo.</p>
       <a href="https://github.com/arthursantx/reservas-viagem-api"><img src="https://img.shields.io/badge/Ver_projeto-38bdf8?style=for-the-badge&logo=github&logoColor=0a1f44" alt="Ver projeto"/></a>
+      <a href="https://arthursantx.github.io/reservas-viagem-api/"><img src="https://img.shields.io/badge/Demo_online-1e5bd8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Demo online"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>Cadastro de Pacientes – UBS</h3>
