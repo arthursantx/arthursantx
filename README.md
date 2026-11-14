@@ -72,7 +72,7 @@ Quero crescer em <b>produtos digitais e transformação digital</b>.
 
 <div align="center">
 
-**No dia a dia**
+**Uso diário**
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 <img src="https://img.shields.io/badge/SQL-1e40af?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
