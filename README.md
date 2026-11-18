@@ -56,6 +56,18 @@ Quero crescer em <b>produtos digitais e transformação digital</b>.
 <table>
   <tr>
     <td valign="top">
+      <h3>Pix no Brasil · estudo de caso de dados</h3>
+      <img src="https://img.shields.io/badge/Dados_abertos-Banco_Central_e_IBGE-0b1a3a?style=flat-square" alt="Dados abertos do Banco Central e do IBGE"/>
+      <img src="https://img.shields.io/badge/SQL-DuckDB-1e40af?style=flat-square&logo=duckdb&logoColor=white" alt="SQL com DuckDB"/>
+      <img src="https://img.shields.io/badge/Python-pandas-1e40af?style=flat-square&logo=python&logoColor=white" alt="Python e pandas"/>
+      <img src="https://img.shields.io/badge/Power_BI-modelo_e_DAX-1e40af?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI"/>
+      <p>Quanto o Pix cresceu, onde ainda tem espaço, como virou pagamento no comércio e o que aconteceu com os golpes. Coleta, SQL e dashboard atualizados automaticamente todo mês.</p>
+      <a href="https://arthursantx.github.io/pix-brasil/"><img src="https://img.shields.io/badge/Abrir_dashboard-2563eb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Abrir dashboard"/></a>
+      <a href="https://github.com/arthursantx/pix-brasil"><img src="https://img.shields.io/badge/Ver_estudo_de_caso-0b1a3a?style=for-the-badge&logo=github&logoColor=white" alt="Ver estudo de caso"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
       <h3>Cadastro de Pacientes · UBS</h3>
       <img src="https://img.shields.io/badge/Acadêmico-FATEC-0b1a3a?style=flat-square" alt="Acadêmico FATEC"/>
       <img src="https://img.shields.io/badge/Java-Spring_Boot-1e40af?style=flat-square&logo=springboot&logoColor=white" alt="Java e Spring Boot"/>
